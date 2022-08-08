@@ -40,3 +40,13 @@
 .section__banner div {
     height: 100%;
 }
+
+.section__form {
+    background-color: aliceblue;
+    border: .50rem solid #ccc;
+    float: right;
+    height: calc(100% + 30px);
+    width: 25rem;
+    position: relative;
+    top: -15px;
+}
