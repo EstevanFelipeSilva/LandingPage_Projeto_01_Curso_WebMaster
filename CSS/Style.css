@@ -8,7 +8,7 @@
 /* ========== CLASSES REUTILIZAVEIS ========== */
 /* =========================================== */
 .container {
-    width: 1280px;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
@@ -20,7 +20,11 @@
     background-color: #212343;
 }
 
-.container img {
+.header__container {
+    height: 4.25rem;
+}
+
+.header__container img {
     margin: 1.50rem;
 }
 
@@ -33,9 +37,6 @@
     background-position: center;
 }
 
-.form {
-    width: 25rem;
+.section__banner div {
     height: 100%;
-    background-color: aliceblue;
-    float: right;
 }
