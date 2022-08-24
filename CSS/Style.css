@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 /* ==========  ========== */
 * {
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
     padding: 0;
     margin: 0;
 }
@@ -49,4 +52,11 @@
     width: 25rem;
     position: relative;
     top: -15px;
+}
+
+.section__form h2 {
+    color: #ccc;
+    font-size: 1rem;
+    padding: .50rem;
+    text-align: justify;
 }
