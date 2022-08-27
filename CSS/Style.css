@@ -44,19 +44,8 @@
     height: 100%;
 }
 
-.section__form {
-    background-color: aliceblue;
-    border: .50rem solid #ccc;
-    float: right;
+/* ========== QUADRO__FORMULARIO ========== */
+.quadro__formulario {
+    color: aliceblue;
     height: calc(100% + 30px);
-    width: 25rem;
-    position: relative;
-    top: -15px;
-}
-
-.section__form h2 {
-    color: #ccc;
-    font-size: 1rem;
-    padding: .50rem;
-    text-align: justify;
 }
