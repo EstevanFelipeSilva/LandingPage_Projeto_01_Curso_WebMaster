@@ -134,3 +134,30 @@
     top: 5rem;
     width: 3rem;
 }
+
+/* ========== SECTION CONTAINER 3 ========== */
+.section__container3 h2 {
+    padding: 4rem;
+    text-align: center;
+}
+
+.single__box {
+    float: left;
+    padding: 4rem;
+    width: 33.33%;
+}
+
+.single__box, .img__single__box {
+    padding: 1rem;
+    text-align: center;
+}
+
+.title__single__box {
+    text-align: center;
+    padding: .5rem;
+}
+
+.text__single__box {
+    text-align: justify;
+    padding: 1.5rem;
+}
