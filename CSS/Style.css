@@ -143,21 +143,30 @@
 
 .single__box {
     float: left;
-    padding: 4rem;
+    padding: 8rem;
     width: 33.33%;
 }
 
 .single__box, .img__single__box {
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
 }
 
 .title__single__box {
     text-align: center;
-    padding: .5rem;
+    padding: 1.5rem;
 }
 
 .text__single__box {
     text-align: justify;
     padding: 1.5rem;
+}
+
+/* ========== FOOTER ========== */
+.page__footer {
+    clear: both;
+    color: #888;
+    border-top: .2rem solid #888;
+    padding: 2rem 0;
+    text-align: center;
 }
